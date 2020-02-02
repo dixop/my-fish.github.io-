@@ -1,0 +1,35 @@
+h1 {
+    font-size: 30px;
+    text-align:left;
+    color:black;
+    
+    }
+
+h2 {
+    font-size: 30px;
+    text-align:right;
+}
+
+a { 
+    margin-bottom: inherit;
+    width: 100%;
+    font-size:60px;
+    color: black;
+    perspective: none;
+    font-style: oblique;
+    
+       
+}
+a:hover {
+         color: darkorange; 
+    
+}
+
+b {
+   font-size: 0.4px ;  
+    
+}
+
+body {
+   
+}
